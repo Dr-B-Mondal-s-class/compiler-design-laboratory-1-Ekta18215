@@ -112,8 +112,11 @@ Total Characters detected : 51
 Input file:
 
 hello		there!!
+
 bonjour
+
 kem choooo
+
 			bye bye  !!
       
 Output file:
@@ -133,10 +136,15 @@ int float 234 55.4 +-/>=*
 Output file:
 
 No. of lexemes=12
+
 No. of keywords=2
+
 No. of identifiers=2
+
 No. of integers=1
+
 No. of fractions=1
+
 No. of operators=6
 
 ***
@@ -144,11 +152,11 @@ No. of operators=6
 Input file:
 
 hello	hello	hello 
+
 My	name is  khan
 
 Output file:
 
-hello	hello	hello 
-My	name is  khan
+hellohellohelloMynameiskhan
 ***
 ***
