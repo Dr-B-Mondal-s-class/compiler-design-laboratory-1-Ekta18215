@@ -111,52 +111,58 @@ Total Characters detected : 51
 ## Program 7.1: WAP to count no. of characters, whitespace, tabs and other characters in the given input file.
 Input file:
 
-hello		there!!
+	hello		there!!
 
-bonjour
+	bonjour
 
-kem choooo
+	kem choooo
 
-			bye bye  !!
+	bye bye  !!
       
 Output file:
 
-Total Characters detected : 49
-No. of tabs : 5
-No. of Lines: 4 
-No. of white spaces: 4 
-Other Characters: 36
+	Total Characters detected : 49
+
+	No. of tabs : 5
+
+	No. of Lines: 4 
+
+	No. of white spaces: 4 
+
+	Other Characters: 36
+
 ***
 ## Program 7.2: WAP to count no. of lexemes in the given input file.
 Input file:
 
-hey there
-int float 234 55.4 +-/>=*
+	hey there
+	
+	int float 234 55.4 +-/>=*
 
 Output file:
 
-No. of lexemes=12
+	No. of lexemes=12
 
-No. of keywords=2
+	No. of keywords=2
 
-No. of identifiers=2
+	No. of identifiers=2
 
-No. of integers=1
+	No. of integers=1
 
-No. of fractions=1
+	No. of fractions=1
 
-No. of operators=6
+	No. of operators=6
 
 ***
 ## Program 7.3: WAP to read from an input file, remove multiple spaces, newline and tabs and write the result in an output file.
 Input file:
 
-hello	hello	hello 
+	hello	hello	hello 
 
-My	name is  khan
+	My	name is  khan
 
 Output file:
 
-hellohellohelloMynameiskhan
+	hellohellohelloMynameiskhan
 ***
 ***
