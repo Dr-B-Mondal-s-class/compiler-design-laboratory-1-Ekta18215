@@ -99,12 +99,12 @@ Input & Output:
 ## Program 6.3: WAP to count number of characters in a given input text file.
 Input file:
 
-hello there! My name is Ekta.I am a BTech student.
+	hello there! My name is Ekta.I am a BTech student.
 
 
 Output file:
 
-Total Characters detected : 51
+	Total Characters detected : 51
 ***
 ***
 # 7. Day 7
