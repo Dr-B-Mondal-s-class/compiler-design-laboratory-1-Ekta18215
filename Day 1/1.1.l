@@ -1,6 +1,6 @@
 %{
     //program to detect whether the character
-    //input is a digit or alphabet
+    //input is a digit or an alphabet
 %}
 
 digit [0-9]
