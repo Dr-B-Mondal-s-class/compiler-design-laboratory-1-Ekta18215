@@ -1,5 +1,5 @@
 %{
-    //proram to show wheteher the input is
+    //proram to show whether the input is
     //a digit or non-digit
 %}
 
