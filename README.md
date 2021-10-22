@@ -163,6 +163,6 @@ Input file:
 
 Output file:
 
-	hellohellohelloMynameiskhan
+	hellohellohello My name is khan
 ***
 ***
