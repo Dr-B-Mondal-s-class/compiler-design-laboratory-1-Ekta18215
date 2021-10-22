@@ -1,5 +1,5 @@
 %{
-    //program to show whether a string contains 
+    //program to check whether a string contains 
     //small alphabets, capital alphabets,
     //both or characters other than alphabets
 %}
